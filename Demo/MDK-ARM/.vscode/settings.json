@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "usart.h": "c",
+        "i2c.h": "c",
+        "main.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stm32f1xx_it.h": "c",
+        "my_mpu6050.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "math.h": "c",
+        "crc.h": "c",
+        "my_vl6180.h": "c",
+        "tim.h": "c",
+        "dl_ln3x.h": "c",
+        "iwdg.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
