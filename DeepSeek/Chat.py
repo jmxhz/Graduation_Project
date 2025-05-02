@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # 初始化客户端
-client = OpenAI(api_key="sk-fae2918fe3e844bbb7cf921173d33e68", base_url="https://api.deepseek.com/v1")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com/v1")
 
 # 初始对话（系统提示可以帮助定义 AI 的行为）
 conversation = [
