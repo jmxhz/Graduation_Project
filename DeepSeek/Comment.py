@@ -116,7 +116,7 @@ def analyze_settlement_risk(
 
 if __name__ == "__main__":
     data_file = "data.csv"
-    API_KEY = "sk-fae2918fe3e844bbb7cf921173d33e68"  # 示例密钥，需替换
+    API_KEY = ""  # 示例密钥，需替换
 
     try:
         print(analyze_settlement_risk(data_file, API_KEY))
